@@ -1,7 +1,7 @@
 
 ########## linear regression, Pearson correlation analysis, and stepwise multiple regression ##########
 
-setwd("F:/ISAR_data_analyses") # Project folder location
+setwd("F:/ISAR_data_analyses-main") # Project folder location
 work_dir <- getwd() # Set working directory 
 
 library(stats) # lm function
