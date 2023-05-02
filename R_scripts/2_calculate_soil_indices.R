@@ -1,7 +1,7 @@
 
 ########## calculated habitat quality, habitat heterogeneity, and spatial distance on each fragment ##########
 
-setwd("F:/ISAR_data_analyses") # Project folder location
+setwd("F:/ISAR_data_analyses-main") # Project folder location
 work_dir <- getwd() # Set working directory 
 
 library(vegan)
