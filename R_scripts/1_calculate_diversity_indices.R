@@ -1,7 +1,7 @@
 
 ########## calculated fragment-scale (Stotal), within- (α) and among-sample (β) diversity of plants, fungi and bacteria ##########
 
-setwd("F:/ISAR_data_analyses") # Project folder location
+setwd("F:/ISAR_data_analyses-main") # Project folder location
 work_dir <- getwd() # Set working directory 
 
 library(iNEXT)
