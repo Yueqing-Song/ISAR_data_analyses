@@ -1,7 +1,7 @@
 
 ##################################################Sampling effects ####################################################
 
-setwd("F:/ISAR_data_analyses") # Project folder location
+setwd("F:/ISAR_data_analyses-main") # Project folder location
 work_dir <- getwd() # Set working directory 
 
 library(sampling) # strata function
